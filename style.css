@@ -1,0 +1,29 @@
+body {
+    margin: 0; /* Remove as margens padrão do body */
+    padding: 0; /* Remove o padding padrão do body */
+    background: linear-gradient(120deg, #09c58d, rgb(51, 118, 250)); /* Define um gradiente linear como fundo */
+    height: 100vh; /* Define a altura do body para 100% da viewport (tela) */
+    display: flex; /* Ativa o Flexbox para o body */
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center; /* Centraliza o conteúdo verticalmente */
+    flex-direction: column; /* Alinha os itens verticalmente */
+    min-height: 100vh; /* Garante que o body ocupa toda a altura da tela, mesmo que o conteúdo seja menor */
+}
+button {
+    width: 80%; /* Define a largura do botão para 100% do seu contêiner pai */
+    height: 50px; /* Define a altura do botão */
+    border: 1px solid; /* Define uma borda de 1 pixel */
+    background: #5f06b3; /* Define a cor de fundo do botão */
+    border-radius: 25px; /* Define o raio da borda para criar cantos arredondados */
+    cursor: pointer; /* Define o cursor do mouse como uma mãozinha ao passar sobre o botão */
+    outline: none; /* Remove a borda de foco padrão do navegador */
+    color: white; /* Define a cor do texto do botão para branco */
+    font-size: 16px; /* Define o tamanho da fonte do texto do botão */
+    font-weight: bold; /* Define a espessura da fonte do texto do botão para negrito */
+    transition: .5s; /* Define uma transição suave para as propriedades que mudam (hover) */
+}
+
+button:hover {
+    border-color: purple; /* Define a cor da borda do botão ao passar o mouse sobre ele */
+    background: #7607e6; /* Define a cor de fundo do botão ao passar o mouse sobre ele */
+}

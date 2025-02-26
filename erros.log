@@ -1,0 +1,37 @@
+2025-02-21 14:45:34 - Senha incorreta para o usuário: saulo.taurus@gmail.com
+2025-02-21 15:44:38 - Senha incorreta para o usuário: saulo.taurus@gmail.com
+2025-02-21 11:46:16 - Senha incorreta para o usuário: saulo.taurus@gmail.com
+2025-02-21 13:09:26 - Senha incorreta para o usuário: saulo.taurus@gmail.com
+2025-02-21 15:41:28 - Usuário não encontrado: maria@gmail.com
+2025-02-25 10:12:56 - Tentativa de inserção com RUT inválido: 123456785
+2025-02-25 10:16:42 - Erro ao cadastrar usuário: Column 'rut' cannot be null
+2025-02-25 10:18:22 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:18:49 - Tentativa de inserção com RUT inválido: 179499893
+2025-02-25 10:20:57 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:21:30 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:21:34 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:21:38 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:22:18 - Tentativa de inserção com RUT inválido: 179499895
+2025-02-25 10:23:52 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:26:26 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:30:44 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:30:47 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:31:09 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:31:23 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:31:44 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:31:47 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:32:15 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:33:26 - Erro ao cadastrar usuário: Duplicate entry '123456789' for key 'login.PRIMARY'
+2025-02-25 10:33:53 - Tentativa de inserção com RUT inválido: 179499891
+2025-02-25 10:34:02 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 10:34:28 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 10:41:06 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 10:41:27 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 12:00:18 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 14:33:14 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 14:33:18 - Tentativa de inserção com RUT inválido: 179499894
+2025-02-25 14:33:46 - Tentativa de inserção com RUT inválido: 17949989
+2025-02-25 14:47:51 - Tentativa de inserção com RUT inválido: 179499893
+2025-02-25 14:48:22 - Tentativa de inserção com RUT inválido: 179499891
+2025-02-25 14:48:27 - Erro ao cadastrar usuário: Duplicate entry '179499894' for key 'login.PRIMARY'
+2025-02-25 14:50:46 - Tentativa de inserção com RUT inválido: 254013991
